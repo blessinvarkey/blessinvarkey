@@ -1,5 +1,5 @@
 ### Hi there 👋
-Thanks 
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blessinvarkey&show_icons=true&theme=merko)
 
