@@ -5,6 +5,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
-- 🌱 I’m currently looing into GANs, sustainable enginnering and blockchain technologies
+- 🌱 I’m currently looking into GANs, sustainable enginnering and blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
 - 🙂 Pronouns: He/His
