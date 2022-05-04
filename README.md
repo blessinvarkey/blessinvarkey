@@ -5,6 +5,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
+#### Machine/Deep Learning
+[![PyTorch](https://img.shields.io/badge/Py-Torch-3bac3a)](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb) 
+[![TensorFlow](https://img.shields.io/badge/Tensor-Flow-3bac3a)](tensorflow1_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=flat&logo=python&logoColor=white&color=3bac3a)](https://badge.fury.io/py/tensorflow)
+
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
