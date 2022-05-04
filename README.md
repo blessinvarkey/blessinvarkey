@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently looking into GANs, sustainable enginnering and blockchain technologies
-- 🙂 Pronouns: He/His
+- 🌱 I’m currently looking into GANs, sustainable software enginnering and blockchain technologies
+- 💬 Ask me about ecocoding and blockchain development
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
