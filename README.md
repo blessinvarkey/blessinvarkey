@@ -8,7 +8,7 @@
 #### Machine/Deep Learning
 [![PyTorch](https://img.shields.io/badge/Py-Torch-3bac3a)](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb) 
 [![TensorFlow](https://img.shields.io/badge/Tensor-Flow-3bac3a)](tensorflow1_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)
-[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=flat&logo=python&logoColor=white&color=3bac3a)](https://badge.fury.io/py/tensorflow)
+[![Python](https://img.shields.io/pypi/pyvers ions/tensorflow.svg?style=flat&logo=python&logoColor=white&color=3bac3a)](https://badge.fury.io/py/tensorflow)
 
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
