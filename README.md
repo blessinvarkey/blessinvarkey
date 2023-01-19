@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently looking into Diffusion models, LLMs, Metaverse and sustainable software enginnering practices.
-- 💬 Ask me about ecocoding and blockchain development
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
